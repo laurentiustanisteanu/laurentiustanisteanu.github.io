@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Laurentiu Stanisteanu.", "A Gis Specialist.", "A Hydrographic Surveyor.", "A Hydrological & Groundwater Modeller.", "A Hydrologist"],
+      strings: ["Laurentiu Stanisteanu.", "A Gis Specialist.", "A Hydrographic Surveyor.", "A Hydrological Modeller.", "A Groundwater Modeller.", "A Hydrologist"],
       typeSpeed: 100,
       loop: true,
     });
